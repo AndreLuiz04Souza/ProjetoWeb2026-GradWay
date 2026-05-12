@@ -8,3 +8,4 @@
 ## Sobre o Projeto
 Este projeto é uma aplicação de estudo focada no desenvolvimento web, utilizando técnicas de componentização (Vanilla).
 
+editando para teste
